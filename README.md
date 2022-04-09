@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WALL-E322
-- 👀 I’m interested in Crypto
+- 👀 I’m interested in Crypto and blockchain
 - 🌱 I’m currently learning solidity
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on develpoing smart contracts
 - 📫 How to reach me Telegram: @WALL_E322
 
 <!---
