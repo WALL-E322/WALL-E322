@@ -2,7 +2,7 @@
 - 👀 I’m interested in Crypto and blockchain
 - 🌱 I’m currently learning solidity
 - 💞️ I’m looking to collaborate on develpoing smart contracts
-- 📫 How to reach me Telegram: @WALL_E322
+- 📫 How to reach me on Telegram: @WALL_E322
 
 <!---
 WALL-E322/WALL-E322 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
